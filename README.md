@@ -1,2 +1,2 @@
-# cybersecurity-forensics-project-for-school
-This is a cybersecurity forensics project I did while at school
+# Cybersecurity-Forensics-project
+This is a cybersecurity forensics project for an oil company investigating espionage.
